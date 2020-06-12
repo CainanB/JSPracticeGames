@@ -1,0 +1,13 @@
+.myDiv {
+  border-style: solid;
+  height: 500px;
+  width: 500px;
+  display: inline-block;
+  overflow: hidden;
+  text-align: center;
+}
+
+h3{
+
+  margin:0;
+}
